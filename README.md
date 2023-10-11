@@ -44,14 +44,6 @@ This project aims to:
 - Enhance skills in MySQL database management and data analysis.
 - Confront real-world data challenges and refine problem-solving abilities.
 
-## Contributions 🤝
-
-Contributions to this project are welcome! Feel free to submit a pull request if you have any suggestions or want to add more features. Please ensure your changes are well-tested and align with the project's goals.
-
-## Get in Touch 📞
-
-If you have any questions, suggestions, or feedback, don't hesitate to reach out to us. You can contact me on [LinkedIn](www.linkedin.com/in/jayjathar1409) 
-
 ## Languages and Tools
 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="c" width="40" height="40"/> </a> 
